@@ -1,0 +1,26 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f9fafc;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.survey-box {
+  background: white;
+  padding: 20px;
+  width: 60%;
+  margin: 30px auto;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
